@@ -1,0 +1,1270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"cek",
+				"cekin"
+			],
+			[
+				"roo",
+				"room"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"re",
+				"referensi"
+			],
+			[
+				"ty",
+				"typeroom"
+			],
+			[
+				"ce",
+				"cekin"
+			],
+			[
+				"NI",
+				"nik"
+			],
+			[
+				"C",
+				"Contact"
+			],
+			[
+				"Ka",
+				"Karyawan"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Cont",
+				"contact"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"pa",
+				"pattern\tAttr"
+			],
+			[
+				"is",
+				"isFailed"
+			],
+			[
+				"form",
+				"formNIK"
+			],
+			[
+				"fro",
+				"formCekout"
+			],
+			[
+				"for",
+				"formCekout"
+			],
+			[
+				"CEK",
+				"cekin"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"te",
+				"test_input"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"las",
+				"lastnameErr"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"fri",
+				"firstnameErr"
+			],
+			[
+				"formcekou",
+				"formcekout"
+			],
+			[
+				"formcek",
+				"formcekin"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"formE",
+				"formEmailError"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"ro",
+				"room"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"CE",
+				"cekout"
+			],
+			[
+				"A",
+				"Arrival"
+			],
+			[
+				"fi",
+				"firstname"
+			],
+			[
+				"data",
+				"data_7"
+			],
+			[
+				"pho",
+				"phoneErr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"ua",
+				"uangmuka"
+			],
+			[
+				"i",
+				"idkamar"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"id",
+				"idkategori"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"text-de",
+				"text-decoration-style"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"lo",
+				"logo-b"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin/tambah_employee.php",
+			"settings":
+			{
+				"buffer_size": 6387,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/tampil_contact.php",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/tampil_employee.php",
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/tampil_reservation.php",
+			"settings":
+			{
+				"buffer_size": 2462,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/tampil_room.php",
+			"settings":
+			{
+				"buffer_size": 1215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/update_employee.php",
+			"settings":
+			{
+				"buffer_size": 1754,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/update_reservation.php",
+			"settings":
+			{
+				"buffer_size": 1929,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/update_room.php",
+			"settings":
+			{
+				"buffer_size": 1465,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/admin.css",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/dashboard.php",
+			"settings":
+			{
+				"buffer_size": 8656,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/delete_contact.php",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/delete_employee.php",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/delete_reservation.php",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/delete_room.php",
+			"settings":
+			{
+				"buffer_size": 717,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/simpan_contact.php",
+			"settings":
+			{
+				"buffer_size": 821,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/simpan_employee.php",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/simpan_reservation.php",
+			"settings":
+			{
+				"buffer_size": 938,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/simpan_room.php",
+			"settings":
+			{
+				"buffer_size": 814,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/tambah_room.php",
+			"settings":
+			{
+				"buffer_size": 5318,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/referensi/admin/dashboard.php",
+		"/C/xampp/htdocs/sistem_pakar/index.php",
+		"/C/xampp/htdocs/sistem_pakar/diagnosa1.php",
+		"/C/xampp/htdocs/sistem_pakar/diagnosa.php",
+		"/C/xampp/htdocs/sistem_pakar/daftar.php",
+		"/C/xampp/htdocs/sistem_pakar/deskripsi.php",
+		"/C/xampp/htdocs/sistem_pakar/daftar1.php",
+		"/C/xampp/htdocs/sistem_pakar/head.php",
+		"/C/xampp/htdocs/sistem_pakar/index1.php",
+		"/C/xampp/htdocs/sistem_pakar/header.php",
+		"/C/xampp/htdocs/sistem_pakar/index2.php",
+		"/C/xampp/htdocs/referensi/tester.php",
+		"/C/xampp/htdocs/referensi/admin/tampil_reservation.php",
+		"/C/xampp/htdocs/referensi/validasi.php",
+		"/C/xampp/htdocs/referensi/tester.css",
+		"/C/xampp/htdocs/referensi/admin/admin.css",
+		"/C/xampp/htdocs/referensi/admin/tampil_employee.php",
+		"/C/xampp/htdocs/referensi/admin/simpan_reservation.php",
+		"/C/xampp/htdocs/referensi/admin/tampil_room.php",
+		"/C/xampp/htdocs/referensi/admin/tambah_room.php",
+		"/C/xampp/htdocs/referensi/admin/delete_contact.php",
+		"/C/xampp/htdocs/referensi/admin/simpan_room.php",
+		"/C/xampp/htdocs/referensi/admin/update_reservation.php",
+		"/C/xampp/htdocs/referensi/admin/simpan_employee.php",
+		"/C/xampp/htdocs/referensi/admin/update_room.php",
+		"/C/xampp/htdocs/referensi/admin/simpan_contact.php",
+		"/C/xampp/htdocs/referensi/admin/update_employee.php",
+		"/C/xampp/htdocs/referensi/admin/tambah_employee.php",
+		"/C/xampp/htdocs/referensi/tampil_contact.php",
+		"/C/xampp/htdocs/referensi/tampil_employee.php",
+		"/C/xampp/htdocs/referensi/dashboard.php",
+		"/C/xampp/htdocs/referensi/tampil_reservation.php",
+		"/C/xampp/htdocs/referensi/simpan_reservation.php",
+		"/C/xampp/htdocs/referensi/simpan_contact.php",
+		"/C/xampp/htdocs/referensi/admin/delete_room.php",
+		"/C/xampp/htdocs/referensi/admin/delete_employee.php",
+		"/C/xampp/htdocs/uk1/formupdate_customer.php",
+		"/C/xampp/htdocs/referensi/admin/delete_reservation.php",
+		"/C/xampp/htdocs/uk1/delete_customer.php",
+		"/C/xampp/htdocs/referensi/contact.php",
+		"/C/xampp/htdocs/referensi/simpan_employee.php",
+		"/C/xampp/htdocs/referensi/employee.php",
+		"/C/xampp/htdocs/uk1/tampil_customer.php",
+		"/C/xampp/htdocs/jhacko/sitemap.php",
+		"/C/xampp/htdocs/jhacko/sidebar.php",
+		"/C/xampp/htdocs/jhacko/rates.php",
+		"/C/xampp/htdocs/jhacko/logout.php",
+		"/C/xampp/htdocs/jhacko/home.php",
+		"/C/xampp/htdocs/jhacko/gallery.php",
+		"/C/xampp/htdocs/jhacko/index.php",
+		"/C/xampp/htdocs/jhacko/admin/login.php",
+		"/C/xampp/htdocs/jhacko/about.php",
+		"/C/xampp/htdocs/jhacko/contact.php",
+		"/C/xampp/htdocs/jhacko/admin/logout.php",
+		"/C/xampp/htdocs/jhacko/admin/modal.php",
+		"/C/xampp/htdocs/jhacko/admin/index.php",
+		"/C/xampp/htdocs/jhacko/testcal.php",
+		"/C/xampp/htdocs/sugarglider-master/index.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/delete_penyakit.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/delete_penyakit_rawatan.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/delete_penyakit_simptom.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/edit_penyakit.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/list_penyakit.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/view_penyakit.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/add_penyakit.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/add_penyakit_simptom.php",
+		"/C/xampp/htdocs/sugarglider-master/diagnosis/penyakit/add_penyakit_rawatan.php",
+		"/C/xampp/htdocs/uk1/index.php",
+		"/C/xampp/htdocs/uk1/index.css",
+		"/C/xampp/htdocs/referensi/galeri.php",
+		"/C/xampp/htdocs/referensi/validasi2.php",
+		"/C/xampp/htdocs/referensi/index.css",
+		"/C/xampp/htdocs/referensi/web/index.html",
+		"/C/xampp/htdocs/referensi/about.html",
+		"/C/xampp/htdocs/uk1/tambah_kamar.php",
+		"/C/xampp/htdocs/uk1/simpan_customer.php",
+		"/C/xampp/htdocs/uk1/tambah_customer.php",
+		"/C/xampp/htdocs/referensi/galeri.html",
+		"/C/xampp/htdocs/uk1/simpan_kamar.php",
+		"/C/xampp/htdocs/uk1/update_customer.php",
+		"/C/xampp/htdocs/uk1/update_inap.php",
+		"/C/xampp/htdocs/uk1/formupdate_kategori.php",
+		"/C/xampp/htdocs/uk1/simpan_pesan.php",
+		"/C/xampp/htdocs/uk1/formupdate_pesanphp.php",
+		"/C/xampp/htdocs/hotelmamad/formupdate_pesan.php",
+		"/C/xampp/htdocs/uk1/tambah_pesan.php",
+		"/C/xampp/htdocs/hotelmamad/simpan_pesan.php",
+		"/C/xampp/htdocs/uk1/tampil_kamar.php",
+		"/C/xampp/htdocs/hotelmamad/simpan_kamar.php",
+		"/C/xampp/htdocs/uk1/delete_kategori.php",
+		"/C/xampp/htdocs/uk1/tambah_inap.php",
+		"/C/xampp/htdocs/uk1/simpan_kategori.php",
+		"/C/xampp/htdocs/uk1/tampil_pesan.php",
+		"/C/xampp/htdocs/uk1/simpan_inap.php",
+		"/C/xampp/htdocs/hotelmamad/tambah_inap.php",
+		"/C/xampp/htdocs/uk1/formupdate_inap.php",
+		"/C/xampp/htdocs/uk1/delete_pesan.php",
+		"/C/xampp/htdocs/uk1/update_kategori.php",
+		"/C/xampp/htdocs/uk1/update_pesan.php",
+		"/C/xampp/htdocs/uk1/tampil_inap.php",
+		"/C/xampp/htdocs/hotelmamad/update_inap.php",
+		"/C/xampp/htdocs/uk1/delete_inap.php",
+		"/C/xampp/htdocs/hotelmamad/tambah_pesan.php",
+		"/C/xampp/htdocs/hotelmamad/update_pesan.php",
+		"/C/xampp/htdocs/hotelmamad/delete_pesan.php",
+		"/C/xampp/htdocs/hotelmamad/tampil_pesan.php",
+		"/C/xampp/htdocs/uk1/tampil_kategori.php",
+		"/C/xampp/htdocs/uk1/tambah_kategori.php",
+		"/C/xampp/htdocs/hotelmamad/simpan_kategori.php",
+		"/C/xampp/htdocs/ref/index.html",
+		"/C/xampp/htdocs/ref/index.php",
+		"/C/xampp/htdocs/ref/hotel-hamburg/index.php",
+		"/C/xampp/htdocs/ref 3/hotel-hamburg/index.php",
+		"/C/xampp/htdocs/uk1/update_kamar.php",
+		"/C/xampp/htdocs/uk1/delete_kamar.php",
+		"/C/xampp/htdocs/uk1/formupdate_kamar.php",
+		"/C/xampp/htdocs/hotelmamad/tampil_kategori.php",
+		"/C/xampp/htdocs/hotelmamad/tambah_kategori.php",
+		"/C/xampp/htdocs/hotelmamad/tampil_inap.php",
+		"/C/xampp/htdocs/referensi/index2.html",
+		"/C/xampp/htdocs/tugasakhir/index.html",
+		"/C/xampp/htdocs/tugasakhir/menu.css",
+		"/E/SEMESTER 4/PRPL/ref 2/web/index.html",
+		"/E/SEMESTER 4/PRPL/ref 2/web/css/style.css",
+		"/C/xampp/htdocs/referensi/tester.html",
+		"/C/xampp/htdocs/BN/formupdate_customer.php",
+		"/E/SEMESTER 4/PRPL/referensi/web/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reserva",
+			"body",
+			"head",
+			"conten",
+			"duration",
+			"                        "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin/tambah_employee.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1378,
+								1378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin/tampil_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "admin/tampil_employee.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "admin/tampil_reservation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "admin/tampil_room.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "admin/update_employee.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "admin/update_reservation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "admin/update_room.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "admin/admin.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "admin/dashboard.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "admin/delete_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "admin/delete_employee.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "admin/delete_reservation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "admin/delete_room.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "admin/simpan_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "admin/simpan_employee.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "admin/simpan_reservation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "admin/simpan_room.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "admin/tambah_room.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tester.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

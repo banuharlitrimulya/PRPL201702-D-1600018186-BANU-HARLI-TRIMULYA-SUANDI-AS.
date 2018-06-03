@@ -1,0 +1,13 @@
+body {
+    background-image: url(dubai.jpg);
+    background-position: center top, bottom top;
+
+    background-repeat: no-repeat;
+}
+* {box-sizing: border-box;
+}
+
+body { 
+  margin: 0;
+  font-family: Arial;
+}
